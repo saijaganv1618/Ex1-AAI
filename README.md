@@ -1,5 +1,5 @@
-<H3> Name:  EASWAR J </H3>
-<H3>Register No: 212221230024</H3>
+<H3> Name:  JAGAN A </H3>
+<H3>Register No: 212221230037</H3>
 <H3> Experiment 1</H3>
 <H3>DATE: 24.02.2024 </H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
